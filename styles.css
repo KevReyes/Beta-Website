@@ -176,3 +176,10 @@ th{
 	width: 100%;
 	height: auto;
 }
+
+.me{
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 25px;
+	width: 90%;
+}
